@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm BISHAL RAY</h1>
-<h3 align="center">I am a student software developer</h3>
+<h3 align="center">I am a CSE undergraduate student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal17048&label=Profile%20views&color=0e75b6&style=flat" alt="bishal17048" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 My University **Guwahati university institute of science and technology (Btech(CSE) GUIST@28)**
+- 🔭 My University    **Guwahati university institute of science and technology (Btech(CSE) GUIST@28)**
 
-- 🌱 I’m currently learning **Python ,SQL , C , C++ , java , Web development , App development , Artificial intelligence , Machine learning , Cybersecurity , Cloud Computing, Game Development , Block Chain Development**
+- 🌱 I’m currently learning   **Python ,SQL , C , C++ , java , Web development , App development , Artificial intelligence , Machine learning , Cybersecurity , Cloud Computing, Game Development , Block Chain Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
