@@ -1,17 +1,25 @@
+<h1 align="center">Hi I'm BISHAL RAY 👋</h1>
+<h3 align="center">I am a CSE undergraduate student </h3>
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=Hi!+I'm+Bishal+Ray+👋;CSE+Undergraduate+🚀;Passionate+Developer+💻;Tech+Enthusiast+🤖;Lifelong+Learner+📚" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=Passionate+Developer+💻;Tech+Enthusiast+🤖;Lifelong+Learner+📚" alt="Typing SVG" />
   </a>
-  <p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=bishal17048&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 </h1>
 
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.gif" alt="coding" width="450"/>
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="300"/>
+</div>
+
 
 ## 🚀 About Me
 
@@ -36,6 +44,21 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+### 🤖 AI/ML & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,42 +77,10 @@
 
 <div align="center">
 
-![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishal17048&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bishal17048&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal17048&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal17048&show_icons=true&locale=en&layout=compact" alt="bishal17048" /></p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=bishal17048&theme=react-dark&hide_border=true&area=true)
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bishal17048&show_icons=true&locale=en" alt="bishal17048" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal17048&" alt="bishal17048" /></p>
 
 </div>
-
----
-
-## 🎮 Programming Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="500"/>
-</div>
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bishal17048/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:bishalray35555@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bishal17048&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
