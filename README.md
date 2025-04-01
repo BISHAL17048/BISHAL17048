@@ -2,6 +2,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=Hi!+I'm+Bishal+Ray+👋;CSE+Undergraduate+🚀;Passionate+Developer+💻;Tech+Enthusiast+🤖;Lifelong+Learner+📚" alt="Typing SVG" />
   </a>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bishal17048&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 </h1>
 
 <p align="center">
