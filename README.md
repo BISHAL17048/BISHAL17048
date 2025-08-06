@@ -84,3 +84,15 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal17048&" alt="bishal17048" /></p>
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
