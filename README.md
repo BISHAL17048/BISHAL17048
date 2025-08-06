@@ -84,7 +84,3 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal17048&" alt="bishal17048" /></p>
 
 </div>
-
----
-
-<img src="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/snake.svg" alt="Snake animation" />
