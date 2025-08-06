@@ -88,7 +88,6 @@
 ---
 
 ## 📊 GitHub Stats
-<a align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BISHAL17048&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
-</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BISHAL17048&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BISHAL17048&theme=github-compact)
