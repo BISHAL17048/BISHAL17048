@@ -5,8 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=Passionate+Developer+💻;Tech+Enthusiast+🤖;Lifelong+Learner+📚;AI%2FML+Enthusiast+🧠;Open+Source+Contributor+📂;Competitive+Programmer+🏆" alt="Typing SVG" />
   </a>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal17048&label=Profile%20views&color=0e75b6&style=flat" alt="bishal17048" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal17048" alt="bishal17048" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal17048&label=Profile%20views&color=0e75b6&style=flat" alt="BISHAL17048" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BISHAL17048&theme=flat" alt="BISHAL17048" /></a> </p>
 
 
 </p>
