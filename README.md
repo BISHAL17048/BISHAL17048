@@ -79,8 +79,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal17048&show_icons=true&locale=en&layout=compact" alt="bishal17048" /></p>
 
-<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bishal17048&show_icons=true&locale=en" alt="bishal17048" /></p> -->
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bishal17048&show_icons=true&locale=en" alt="bishal17048" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal17048&" alt="bishal17048" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal17048&" alt="bishal17048" /></p> -->
 
 </div>
