@@ -99,6 +99,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" title="Django" />
   </p>
 
+  <h4>📱 Mobile Development</h4>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
+  </p>
+
   <h4>☁️ Cloud & DevOps</h4>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;
