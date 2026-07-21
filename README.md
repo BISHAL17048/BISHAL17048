@@ -88,6 +88,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" title="Plotly" />&nbsp;&nbsp;&nbsp;
     <img src="https://scikit-image.org/_static/img/logo.png" height="40" alt="scikit-image" title="scikit-image" />
+    <br/><br/>
+    <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openrouter&logoColor=white" height="40" alt="OpenRouter" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Zenmux-3498DB?style=for-the-badge" height="40" alt="Zenmux" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge" height="40" alt="OpenCode" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="40" alt="Claude Code" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" height="40" alt="Gemini CLI" />
   </p>
 
   <h4>🌐 Web Development</h4>
@@ -118,7 +124,8 @@
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis" />
   </p>
   
 </div>
