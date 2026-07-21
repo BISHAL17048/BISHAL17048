@@ -185,7 +185,7 @@
 
 <div align="center">
   <p>Feel free to reach out to me for collaborations, open-source projects, or just a quick chat.</p>
-  <a href="https://www.linkedin.com/in/bishal17048/">
+  <a href="https://www.linkedin.com/in/bishal-ray-a17b6a31a/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:bishalray35555@gmail.com">
