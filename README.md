@@ -71,7 +71,7 @@
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="C" title="C" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
   </p>
 
@@ -103,7 +103,7 @@
     <img src="https://github.com/zenmux.png" height="40" alt="Zenmux" title="Zenmux" />&nbsp;&nbsp;&nbsp;
     <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=128" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;&nbsp;
     <img src="https://icon.horse/icon/claude.ai" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="40" alt="Gemini CLI" title="Gemini CLI" />&nbsp;&nbsp;&nbsp;
+    <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" height="40" alt="Gemini" title="Gemini" />&nbsp;&nbsp;&nbsp;
     <img src="./nvidia-icon.svg" height="40" alt="NVIDIA NIM" title="NVIDIA NIM" />
   </p>
 
