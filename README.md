@@ -43,18 +43,18 @@
 <div align="center">
   <p>
     <a href="https://leetcode.com/BISHAL_RAY/">
-      <img src="https://leetcard.jacoblin.cool/BISHAL_RAY?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode Stats" height="150" style="margin: 10px;" />
+      <img src="https://leetcard.jacoblin.cool/BISHAL_RAY?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode Stats" height="240" style="margin: 10px;" />
     </a>
     <a href="https://codeforces.com/profile/bishal_170ray">
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bishal_170ray&theme=tokyonight" alt="Codeforces Stats" height="150" style="margin: 10px;" />
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bishal_170ray&theme=tokyonight" alt="Codeforces Stats" height="240" style="margin: 10px;" />
     </a>
   </p>
   <p>
     <a href="https://www.hackerrank.com/Bishal_Ray">
-      <img src="https://img.shields.io/badge/BISHAL__RAY-India%20%7C%20%40Bishal__Ray-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" style="margin: 10px;" />
+      <img src="https://img.shields.io/badge/BISHAL__RAY-India%20%7C%20%40Bishal__Ray-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" height="40" style="margin: 10px;" />
     </a>
     <a href="https://www.kaggle.com/bishalray2401">
-      <img src="https://img.shields.io/badge/Kaggle-@bishalray2401-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" style="margin: 10px;" />
+      <img src="https://img.shields.io/badge/Kaggle-@bishalray2401-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" height="40" style="margin: 10px;" />
     </a>
   </p>
 </div>
