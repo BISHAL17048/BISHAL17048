@@ -174,11 +174,20 @@
 
 
 <div align="center">
+  <h3>🔥 My GitHub Contribution Heatmap</h3>
+  <a href="https://github.com/BISHAL17048">
+    <img src="https://ghchart.rshah.org/2EC866/BISHAL17048" alt="GitHub Heatmap" width="80%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <h3>🐍 My GitHub Contribution Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/github-contribution-grid-snake-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/github-contribution-grid-snake.gif">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/github-contribution-grid-snake.gif">
   </picture>
 </div>
 
