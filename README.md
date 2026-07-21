@@ -171,23 +171,14 @@
   </table>
 </div>
 
-<br/>
 
-<div align="center">
-  <h3>🔥 My GitHub Contribution Heatmap</h3>
-  <a href="https://github.com/bishal17048">
-    <img src="https://ghchart.rshah.org/0e75b6/bishal17048" alt="GitHub Heatmap" width="80%" />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <h3>🐍 My GitHub Contribution Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishal17048/bishal17048/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishal17048/bishal17048/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bishal17048/bishal17048/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
