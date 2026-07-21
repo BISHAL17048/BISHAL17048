@@ -97,7 +97,7 @@
   <p>
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace" title="HuggingFace" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/langchain-ai.png" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/langchain-ai.png" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/.github/images/logo-dark.svg" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/crewAIInc.png" height="40" alt="CrewAI" title="CrewAI" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/OpenRouter-AI.png" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/zenmux.png" height="40" alt="Zenmux" title="Zenmux" />&nbsp;&nbsp;&nbsp;
