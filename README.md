@@ -31,6 +31,7 @@
   <li>💻 <b>Currently Learning:</b> Advanced Cloud Architecture, Deep Learning, and Full-Stack Engineering</li>
   <li>🌱 <b>Exploring:</b> AWS, Azure, and modern AI/ML frameworks</li>
   <li>⚡ <b>Hobbies:</b> Coding, Problem-Solving, Open-Source Contributions, Chess</li>
+  <li>🌐 <b>Portfolio:</b> <a href="https://bishal-ray-portfolio.vercel.app/">bishal-ray-portfolio.vercel.app</a></li>
   <li>📝 <b>Blog:</b> Coming Soon!</li>
 </ul>
 
