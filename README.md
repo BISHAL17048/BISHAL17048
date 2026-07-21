@@ -97,9 +97,9 @@
   <p>
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace" title="HuggingFace" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/langchain-ai.png" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/.github/images/logo-dark.svg" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
+    <img src="./langgraph-icon.svg" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/crewAIInc.png" height="40" alt="CrewAI" title="CrewAI" />&nbsp;&nbsp;&nbsp;
-    <img src="https://openrouter.ai/favicon-96x96-v3.png" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;
+    <img src="https://openrouter.ai/brand/v2/openrouter-dark.svg" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/zenmux.png" height="40" alt="Zenmux" title="Zenmux" />&nbsp;&nbsp;&nbsp;
     <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=128" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;&nbsp;
     <img src="https://icon.horse/icon/claude.ai" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
