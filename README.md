@@ -188,8 +188,11 @@
   <a href="https://www.linkedin.com/in/bishal-ray-a17b6a31a/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:bishalray35555@gmail.com">
+  <a href="mailto:bishalray419@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Gmail" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bishal-ray-portfolio.vercel.app/">
+    <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-256x256.png" height="40" alt="Portfolio" title="Portfolio" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter" />
