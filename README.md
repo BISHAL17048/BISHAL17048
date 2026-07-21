@@ -141,8 +141,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;
-    <img src="./vercel-icon.svg" height="40" alt="Vercel" title="Vercel" />&nbsp;&nbsp;&nbsp;
-    <img src="./render-icon.svg" height="40" alt="Render" title="Render" />&nbsp;&nbsp;&nbsp;
+    <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-256x256.png" height="40" alt="Vercel" title="Vercel" />&nbsp;&nbsp;&nbsp;
+    <img src="https://render.com/icon.svg" height="40" alt="Render" title="Render" />&nbsp;&nbsp;&nbsp;
     <img src="https://www.google.com/s2/favicons?domain=railway.app&sz=128" height="40" alt="Railway" title="Railway" />
   </p>
 
