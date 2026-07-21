@@ -16,12 +16,10 @@ jobs:
       
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: bishal17048
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23ff9e64
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23bb9af7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
