@@ -99,10 +99,10 @@
     <img src="https://github.com/langchain-ai.png" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/.github/images/logo-dark.svg" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/crewAIInc.png" height="40" alt="CrewAI" title="CrewAI" />&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/OpenRouter-AI.png" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;
+    <img src="https://icon.horse/icon/openrouter.ai" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/zenmux.png" height="40" alt="Zenmux" title="Zenmux" />&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/opencode.png" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/anthropic.png" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
+    <img src="https://icon.horse/icon/opencode.com" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;&nbsp;
+    <img src="https://icon.horse/icon/claude.ai" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="40" alt="Gemini CLI" title="Gemini CLI" />
   </p>
 
