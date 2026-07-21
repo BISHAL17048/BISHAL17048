@@ -96,13 +96,13 @@
   <h4>🤖 LLMs, Agents & AI Tools</h4>
   <p>
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace" title="HuggingFace" />&nbsp;&nbsp;&nbsp;
-    <img src="https://www.langchain.com/blog/content/images/2023/10/langchain-logo-1.png" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/crewai/F86638" height="40" alt="CrewAI" title="CrewAI" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/openrouter/3E4A5B" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;
-    <img src="https://ui-avatars.com/api/?name=Zenmux&background=3498DB&color=fff&rounded=true&bold=true" height="40" alt="Zenmux" title="Zenmux" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/opencode/007ACC" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/langchain-ai.png" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/langchain-ai.png" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/crewAIInc.png" height="40" alt="CrewAI" title="CrewAI" />&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/OpenRouter-AI.png" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/zenmux.png" height="40" alt="Zenmux" title="Zenmux" />&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/opencode.png" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/anthropic.png" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="40" alt="Gemini CLI" title="Gemini CLI" />
   </p>
 
