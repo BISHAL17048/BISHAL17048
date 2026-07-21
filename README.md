@@ -75,25 +75,40 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
   </p>
 
-  <h4>🤖 AI, ML & Data Science</h4>
+  <h4>🧠 Machine Learning & Deep Learning</h4>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" title="Keras" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn" />&nbsp;&nbsp;&nbsp;
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace" title="HuggingFace" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-Learn" title="Scikit-Learn" />
+  </p>
+
+  <h4>📊 Data Science & Computer Vision</h4>
+  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" title="Plotly" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;&nbsp;
     <img src="https://scikit-image.org/_static/img/logo.png" height="40" alt="scikit-image" title="scikit-image" />
-    <br/><br/>
+  </p>
+
+  <h4>🤖 LLMs, Agents & AI Tools</h4>
+  <p>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="HuggingFace" title="HuggingFace" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/crewai" height="40" alt="CrewAI" title="CrewAI" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/openrouter" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;
     <img src="https://ui-avatars.com/api/?name=Zenmux&background=3498DB&color=fff&rounded=true&bold=true" height="40" alt="Zenmux" title="Zenmux" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/opencode" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/claude" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Gemini CLI" title="Gemini CLI" />
+  </p>
+
+  <h4>⚡ APIs & Model Serving</h4>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
   </p>
 
   <h4>🌐 Web Development</h4>
