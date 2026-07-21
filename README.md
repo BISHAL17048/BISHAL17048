@@ -103,14 +103,14 @@
     <img src="https://github.com/zenmux.png" height="40" alt="Zenmux" title="Zenmux" />&nbsp;&nbsp;&nbsp;
     <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=128" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;&nbsp;
     <img src="https://icon.horse/icon/claude.ai" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="40" alt="Gemini CLI" title="Gemini CLI" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="40" alt="Gemini CLI" title="Gemini CLI" />&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" height="40" alt="NVIDIA NIM" title="NVIDIA NIM" />
   </p>
 
   <h4>⚡ APIs & Model Serving</h4>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;
-    <img src="https://www.google.com/s2/favicons?domain=pydantic.dev&sz=128" height="40" alt="Pydantic" title="Pydantic" />&nbsp;&nbsp;&nbsp;
-    <img src="https://www.google.com/s2/favicons?domain=nvidia.com&sz=128" height="40" alt="NVIDIA NIM" title="NVIDIA NIM" />
+    <img src="https://www.google.com/s2/favicons?domain=pydantic.dev&sz=128" height="40" alt="Pydantic" title="Pydantic" />
   </p>
 
   <h4>🌐 Web Development</h4>
@@ -141,8 +141,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel" />&nbsp;&nbsp;&nbsp;
-    <img src="https://www.google.com/s2/favicons?domain=render.com&sz=128" height="40" alt="Render" title="Render" />&nbsp;&nbsp;&nbsp;
+    <img src="./vercel-icon.svg" height="40" alt="Vercel" title="Vercel" />&nbsp;&nbsp;&nbsp;
+    <img src="./render-icon.svg" height="40" alt="Render" title="Render" />&nbsp;&nbsp;&nbsp;
     <img src="https://www.google.com/s2/favicons?domain=railway.app&sz=128" height="40" alt="Railway" title="Railway" />
   </p>
 
