@@ -157,10 +157,10 @@
   <table>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=bishal17048&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bishal's GitHub Stats" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api?username=bishal17048&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bishal's GitHub Stats" width="100%" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal17048&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bishal17048&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
       </td>
     </tr>
     <tr>
