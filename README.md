@@ -104,7 +104,7 @@
     <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=128" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;&nbsp;
     <img src="https://icon.horse/icon/claude.ai" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="40" alt="Gemini CLI" title="Gemini CLI" />&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" height="40" alt="NVIDIA NIM" title="NVIDIA NIM" />
+    <img src="https://build.nvidia.com/nvidia-logo.png" height="40" alt="NVIDIA NIM" title="NVIDIA NIM" />
   </p>
 
   <h4>⚡ APIs & Model Serving</h4>
