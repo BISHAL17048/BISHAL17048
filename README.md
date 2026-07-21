@@ -99,7 +99,7 @@
     <img src="https://github.com/langchain-ai.png" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
     <img src="./langgraph-icon.svg" height="40" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/crewAIInc.png" height="40" alt="CrewAI" title="CrewAI" />&nbsp;&nbsp;&nbsp;
-    <img src="https://openrouter.ai/brand/v2/openrouter-dark.svg" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;
+    <img src="./openrouter-icon.svg" height="40" alt="OpenRouter" title="OpenRouter" />&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/zenmux.png" height="40" alt="Zenmux" title="Zenmux" />&nbsp;&nbsp;&nbsp;
     <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=128" height="40" alt="OpenCode" title="OpenCode" />&nbsp;&nbsp;&nbsp;
     <img src="https://icon.horse/icon/claude.ai" height="40" alt="Claude Code" title="Claude Code" />&nbsp;&nbsp;&nbsp;
