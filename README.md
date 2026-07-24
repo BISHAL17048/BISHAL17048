@@ -91,7 +91,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" title="Plotly" />&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;&nbsp;
-    <img src="https://scikit-image.org/_static/img/logo.png" height="40" alt="scikit-image" title="scikit-image" />
+    <img src="https://scikit-image.org/_static/img/logo.png" height="40" alt="scikit-image" title="scikit-image" />&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="40" alt="SciPy" title="SciPy" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/PyWavelets-white?style=flat&logo=python&logoColor=blue" height="40" alt="PyWavelets" title="PyWavelets" />&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/mikedh/trimesh"><img src="https://trimesh.org/favicon.ico" height="40" alt="Trimesh" title="Trimesh" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/isl-org/Open3D"><img src="https://raw.githubusercontent.com/isl-org/Open3D/main/docs/_static/open3d_logo.ico" height="40" alt="Open3D" title="Open3D" /></a>
   </p>
 
   <h4>🤖 LLMs, Agents & AI Tools</h4>
