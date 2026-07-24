@@ -177,7 +177,11 @@
 
 <div align="center">
   <h3>🌌 3D GitHub Contribution Graph</h3>
-  <img src="./github-3d-graph.png" alt="3D Contribution Graph" width="98%" />
+  <a href="https://github-3-d-contributions.vercel.app/?user=BISHAL17048">
+    <img src="./github-3d-graph.png" alt="3D Contribution Graph" width="98%" />
+  </a>
+  <br/>
+  <p><i>👆 Click the image to view the interactive 3D version!</i></p>
 </div>
 
 <br/>
