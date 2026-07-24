@@ -1,0 +1,53 @@
+name: Generate 3D GitHub Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run at midnight every day
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Profile Repository
+        uses: actions/checkout@v3
+        
+      - name: Checkout 3D Graph Repository
+        uses: actions/checkout@v3
+        with:
+          repository: BISHAL17048/Github-3D-Contributions
+          path: github-3d-contribution
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install Dependencies & Build
+        run: |
+          cd github-3d-contribution
+          npm install
+          npm run build
+          
+      - name: Install Puppeteer browsers
+        run: |
+          cd github-3d-contribution
+          npx puppeteer browsers install chrome
+          
+      - name: Generate 3D Graph Image
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GH_GRAPHQL_TOKEN }}
+        run: |
+          cd github-3d-contribution
+          node scripts/generate-profile-image.js
+          
+      - name: Move Image to Profile Repo
+        run: |
+          cp github-3d-contribution/output/github-3d-graph.png ./github-3d-graph.png
+          
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update 3D Contribution Graph"
+          file_pattern: "github-3d-graph.png"

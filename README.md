@@ -176,6 +176,13 @@
 
 
 <div align="center">
+  <h3>🌌 3D GitHub Contribution Graph</h3>
+  <img src="./github-3d-graph.png" alt="3D Contribution Graph" width="98%" />
+</div>
+
+<br/>
+
+<div align="center">
   <h3>🐍 My GitHub Contribution Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BISHAL17048/BISHAL17048/output/github-contribution-grid-snake-dark.svg">
