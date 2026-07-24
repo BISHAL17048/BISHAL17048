@@ -10,16 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Profile Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         
       - name: Checkout 3D Graph Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: BISHAL17048/Github-3D-Contributions
           path: github-3d-contribution
+          token: ${{ secrets.GH_GRAPHQL_TOKEN }}
           
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '18'
           
