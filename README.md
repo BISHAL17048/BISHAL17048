@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>Hi there, I'm Bishal Ray 👋</h2>
-  <h4>B.Tech (CSE) Undergraduate @ GUIST | AI/ML & Web Development Enthusiast</h4>
+  <h4>B.Tech (CSE) Undergraduate @ GUIST | AI/ML Enthusiast</h4>
   <p>
     <a href="https://github.com/bishal17048">
       <img src="https://komarev.com/ghpvc/?username=bishal17048&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="BISHAL17048" />
