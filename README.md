@@ -170,7 +170,7 @@
   <br/>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BISHAL17048&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BISHAL17048&theme=tokyonight" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BISHAL17048&layout=donut&theme=tokyonight&langs_count=5&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
 
