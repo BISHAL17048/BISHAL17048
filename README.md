@@ -166,11 +166,11 @@
 ### 📊 GitHub Analytics & Contributions
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BISHAL17048&theme=tokyonight" alt="Bishal's Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BISHAL17048&theme=tokyonight" alt="Bishal's Profile Details" width="98%" />
+  <br/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BISHAL17048&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BISHAL17048&theme=tokyonight" alt="Top Languages" width="48%" />
-  <br/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BISHAL17048&theme=tokyonight" alt="GitHub Stats" width="98%" />
 </div>
 
 
